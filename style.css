@@ -140,6 +140,10 @@ nav a:hover {
     padding: 20px;
     border-radius: 5px;
     margin-bottom: 20px;
+    
+}
+#bordure {
+    margin: 40px;
 }
 
 .separator-blanche {
